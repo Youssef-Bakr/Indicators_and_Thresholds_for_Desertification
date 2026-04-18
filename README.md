@@ -1,2 +1,2 @@
-# Indicators_and_Thresholds_for_Desertification
+# Indicators and Thresholds for Desertification
 Indicators and Thresholds for Desertification
