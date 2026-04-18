@@ -1,10 +1,17 @@
-# Fullname	Indicators and Thresholds for Desertification, Soil Quality, and Remediation
-## Funding Source	EC
-## Programme	FP6
-## Total Cost	2 396K€
-## Start Date	01/01/2004
-## Duration	42 months
-## Status	Completed
+# Fullname	
+Indicators and Thresholds for Desertification, Soil Quality, and Remediation
+## Funding Source	
+EC
+## Programme	
+FP6
+## Total Cost	
+2 396K€
+## Start Date	
+01/01/2004
+## Duration	
+42 months
+## Status	
+Completed
 
 # Project Abstract
 ## Objectives
