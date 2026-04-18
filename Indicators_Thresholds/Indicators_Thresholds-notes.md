@@ -51,11 +51,11 @@ A complete list of all performed analysis is given in Appendix A.
 
 <img width="685" height="483" alt="978-90-481-3585-1_4_Part_Fig2-40_HTML" src="https://github.com/user-attachments/assets/52ab7798-7f1e-4c11-b9f5-18a965cc5163" />
 
-Type I: lack of vegetation as the result of desertification processes
+## Type I: lack of vegetation as the result of desertification processes
 
-Type II: soil erosion
+## Type II: soil erosion
 
-Type III: agricultural management
+## Type III: agricultural management
 
 Only those soil parameters were selected as potential indicators, which reacted logically according to a change of the pressure level.
 
@@ -85,6 +85,9 @@ Only those soil parameters were selected as potential indicators, which reacted 
 ### Applications of the indices
 Sites with a lack of vegetation as the result of desertification processes (site type I)
 Figure 3 gives an example from the Puch experimental site (Germany), where the highest values were found at the agricultural plot, the lowest values at the bare soil and the plot with limited vegetation in between. Although the variation of vegetation has been induced artificially at this site, the index developed gives a clear pattern showing how the soil quality reflects the differences in plant cover.
+
+
+<img width="394" height="457" alt="978-90-481-3585-1_4_Part_Fig3-40_HTML" src="https://github.com/user-attachments/assets/9608d50a-eed3-4ca4-afbc-12343e2703f7" />
 
 
 # https://link.springer.com/rwe/10.1007/978-90-481-3585-1_40
