@@ -44,3 +44,7 @@ Institute for Ecosystem Studies, IT
 wpa Consulting Engineers, Ltd., AT
 University of Szeged, HU
 Szent István University, HU
+
+
+# https://www.copernicus.eu/en/indicators-and-thresholds-desertification-soil-quality-and-remediation
+
